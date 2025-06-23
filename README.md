@@ -6,7 +6,14 @@ To support this, I want to provide help with guides, templates, and snippets.
 
 ## Guides
 
-- [Vault Backup, Sync, and Version Control](guides/vault_backup_sync_version_control.md):  
+### Core Concepts Series
+
+- **[Part 1: PKM, Obsidian, and Markdown](obsidian_guides_1_pkm_markdown.md)**  
+  Introduction to Personal Knowledge Management, why Obsidian excels at PKM, and how Markdown forms its foundation. Covers core principles and basic organization.
+
+### Practical Systems
+
+- **[Vault Backup, Sync, and Version Control](guides/vault_backup_sync_version_control.md)**  
   A detailed manual on organizing your Obsidian vault with cloud sync, version control using JJ and Git, automation scripts, and best practices for reliable backup and cross-platform compatibility.
   
   
