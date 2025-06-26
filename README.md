@@ -13,6 +13,10 @@ To support this, I want to provide help with guides, templates, and snippets.
   
 - **[Part 2: Note Structure & Metadata](obsidian_guides_2_note_metadata_syntax.md)**  
   Anatomy of Obsidian notes: frontmatter metadata, content organization, and Markdown syntax essentials for effective knowledge capture.
+  
+- **[Part 3: Templates & Consistency](obsidian_guides_3_templates.md)**  
+  Create reusable templates for different note types, standardize metadata, and maintain consistency across your vault.
+
 
 ### Practical Systems
 
@@ -20,3 +24,4 @@ To support this, I want to provide help with guides, templates, and snippets.
   A detailed manual on organizing your Obsidian vault with cloud sync, version control using JJ and Git, automation scripts, and best practices for reliable backup and cross-platform compatibility.
   
   
+Written by https://github.com/zoltantill
