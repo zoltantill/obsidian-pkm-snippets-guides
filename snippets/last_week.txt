@@ -1,0 +1,4 @@
+```dataview
+TABLE type as Type, tags as Tags, dateformat(file.ctime, "yyyy.MM.dd") AS "Created"
+WHERE file.ctime >= date(today) - dur(1 week)
+```
