@@ -1,0 +1,5 @@
+```dataview
+table type as Type, tags as Tags, file.mtime as Changed
+where (contains(file.outlinks, this.file.link) OR Type=this.Type) AND !contains(this.file.outlinks, file.link) 
+sort file.name ASC
+```
